@@ -1,1 +1,55 @@
+/*
+                        ____                   __                  __    ___                           
+    ____  ____ ___  __/ / /_  ____ ___  _____/ /___ ___  ______ _/ /_  / (_)___   _________  ____ ___ 
+   / __ \/ __ `/ / / / / __ \/ __ `__ \/ ___/ / __ `/ / / / __ `/ __ \/ / / __ \ / ___/ __ \/ __ `__ \
+  / /_/ / /_/ / /_/ / / / / / / / / / / /__/ / /_/ / /_/ / /_/ / / / / / / / / // /__/ /_/ / / / / / /
+ / .___/\__,_/\__,_/_/_/ /_/_/ /_/ /_/\___/_/\__,_/\__,_/\__, /_/ /_/_/_/_/ /_(_)___/\____/_/ /_/ /_/ 
+/_/                                                     /____/ 
+                                       
+*/
+
+.container .jumbotron, .container-fluid .jumbotron {
+    background: #f5f5f5;
+    border: solid #666;
+    border-width: 8px 0 2px 0;
+    border-radius: 0px;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 40px;
+}
+
+.h2, h2 {
+    font-size: 25px;
+}
+
+.panel {
+	border-radius: 0px;
+	
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #666666;
+}
+.nav-pills>li>a {
+    border-radius: 0px;
+}
+
+a {
+    color: #666666;
+}
+
+#inner {
+    padding: 10px 80px;
+    margin: 80px auto;
+    background: #f5f5f5;
+    border: solid #666;
+    border-width: 8px 0 2px 0;
+	
+#hd {
+    margin: 2.5em 0 3em 0;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #ccc;
+}
 
